@@ -1763,7 +1763,7 @@ div.mc-image {
     }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 991.5px) {
     .aboutUs-container {
         background-image: none;
     }
